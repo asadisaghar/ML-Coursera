@@ -8,3 +8,4 @@ http://cs229.stanford.edu/materials.html
   - Week 1
   - Week 2
   - Week 3
+  - Week 4
